@@ -1,2 +1,2 @@
 # BoomerSquadNFT
-Official Public Repository of Boomer Squad NFT
+Official Public Repository of Boomer Squad NFT 👴
